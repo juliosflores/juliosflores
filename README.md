@@ -1,6 +1,10 @@
 # Julio Flores 💀
 
-Desenvolvedor em aprendizado • Home Lab • IA Local • Automação • Hardware
+<div align="center">
+
+### Home Lab • IA Local • Linux • Hardware • Automação
+
+</div>
 
 ---
 
@@ -16,9 +20,9 @@ Desenvolvedor em aprendizado • Home Lab • IA Local • Automação • Hardw
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosflores&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliosflores&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -28,17 +32,13 @@ Desenvolvedor em aprendizado • Home Lab • IA Local • Automação • Hardw
 
 <div style="display: inline_block"><br/>
 
-<img align="center" alt="python"
-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="center" alt="javascript"
-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img align="center" alt="linux"
-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img align="center" alt="ubuntu"
-src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 </div>
 
@@ -50,12 +50,12 @@ src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&
 - 🤖 Testando IA local
 - 🎮 Trabalhando com videogames e eletrônica
 - 🐧 Aprendendo Linux e automação
-- ☁️ Explorando servidores e self-hosting
+- ☁️ Explorando self-hosting
 
 ---
 
 <div align="center">
 
-![Snake animation](https://github.com/juliosflores/juliosflores/blob/output/github-contribution-grid-snake.svg)
+![](https://komarev.com/ghpvc/?username=juliosflores&color=blueviolet&style=for-the-badge)
 
 </div>
