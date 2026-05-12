@@ -14,9 +14,13 @@ Desenvolvedor em aprendizado • Home Lab • IA Local • Automação • Hardw
 
 ## 📊 Estatísticas
 
-![JuliosFlores GitHub stats](https://github-readme-stats.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosflores&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosflores&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -24,16 +28,16 @@ Desenvolvedor em aprendizado • Home Lab • IA Local • Automação • Hardw
 
 <div style="display: inline_block"><br/>
 
-<img align="center" alt="python" 
+<img align="center" alt="python"
 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img align="center" alt="javascript" 
+<img align="center" alt="javascript"
 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img align="center" alt="linux" 
+<img align="center" alt="linux"
 src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-<img align="center" alt="ubuntu" 
+<img align="center" alt="ubuntu"
 src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 </div>
@@ -46,3 +50,12 @@ src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&
 - 🤖 Testando IA local
 - 🎮 Trabalhando com videogames e eletrônica
 - 🐧 Aprendendo Linux e automação
+- ☁️ Explorando servidores e self-hosting
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/juliosflores/juliosflores/blob/output/github-contribution-grid-snake.svg)
+
+</div>
