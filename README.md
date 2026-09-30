@@ -1,61 +1,80 @@
-# Julio Flores 💀
-
 <div align="center">
 
-### Home Lab • IA Local • Linux • Hardware • Automação
+  <!-- Header Banner Animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3&height=210&section=header&text=Julio%20Flores%20💀&fontSize=42&fontAlignY=38&desc=Home%20Lab%20•%20IA%20Local%20•%20Linux%20•%20Hardware%20•%20Automação&descAlignY=58&theme=tokyonight" width="100%" alt="Julio Flores Banner" />
+
+  <!-- Contador de Visitas & Status -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=juliosflores&label=VISITAS+AO+PERFIL&color=7aa2f7&style=flat-square" alt="Visitas ao Perfil" />
+    <img src="https://img.shields.io/badge/Status-Construindo%20o%20Futuro-10b981?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Foco-IA%20Local%20%26%20Homelab-8b5cf6?style=flat-square" alt="Foco" />
+  </p>
+
+  <!-- Redes Sociais com Estilo Moderno -->
+  <p align="center">
+    <a href="https://www.instagram.com/juliosflores/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://twitter.com/juliosflores" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://www.facebook.com/juliosflores/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🌐 Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliosflores/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juliosflores/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juliosflores)
-
----
-
-## 📊 Estatísticas
+### 🛠️ Tecnologias & Ecossistema
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight"/>
+#### 🖥️ Home Lab, Servidores & Redes
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-24292E?style=for-the-badge&logo=tailscale&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliosflores&layout=compact&theme=tokyonight"/>
+#### 🤖 Inteligência Artificial, Automação & Dev
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📚 Tecnologias que estou estudando
+### 📊 Estatísticas do GitHub
 
-<div style="display: inline_block"><br/>
+<div align="center">
 
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <!-- Estatísticas Gerais e Streak lado a lado -->
+  <a href="https://github.com/juliosflores">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub de Julio Flores" />
+  </a>
+  <a href="https://github.com/juliosflores">
+    <img height="165em" src="https://streak-stats.demolab.com/?user=juliosflores&theme=tokyonight&hide_border=true&background=0d1117" alt="Sequência de Contribuições de Julio Flores" />
+  </a>
 
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br><br>
 
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <!-- Linguagens mais utilizadas -->
+  <a href="https://github.com/juliosflores">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosflores&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens Mais Utilizadas" />
+  </a>
 
 </div>
 
 ---
 
-## ⚡ Atualmente
-
-- 🖥️ Montando Home Lab
-- 🤖 Testando IA local
-- 🎮 Trabalhando com videogames e eletrônica
-- 🐧 Aprendendo Linux e automação
-- ☁️ Explorando self-hosting
-
----
-
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=juliosflores&color=blueviolet&style=for-the-badge)
-
+  <sub>⚡ <i>"Construindo ambientes resilientes, explorando hardware e operando IA na ponta."</i></sub>
 </div>
