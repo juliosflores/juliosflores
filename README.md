@@ -1,25 +1,25 @@
-<div align=center>
+<div align="center">
 
   <!-- Header Banner Animado -->
-  <img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3&height=210&section=header&text=Julio%20Flores%20ðŸ’€&fontSize=42&fontAlignY=38&desc=Home%20Lab%20â€¢%20IA%20Local%20â€¢%20Linux%20â€¢%20Hardware%20â€¢%20AutomaÃ§Ã£o&descAlignY=58&theme=tokyonight width=100% alt=Julio Flores Banner />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,3&height=210&section=header&text=Julio%20Flores%20💀&fontSize=42&fontAlignY=38&desc=Home%20Lab%20•%20IA%20Local%20•%20Linux%20•%20Hardware%20•%20Automação&descAlignY=58&theme=tokyonight" width="100%" alt="Julio Flores Banner" />
 
   <!-- Contador de Visitas & Status -->
-  <p align=center>
-    <img src=https://komarev.com/ghpvc/?username=juliosflores&label=VISITAS+AO+PERFIL&color=7aa2f7&style=flat-square alt=Visitas ao Perfil />
-    <img src=https://img.shields.io/badge/Status-Construindo%20o%20Futuro-10b981?style=flat-square alt=Status />
-    <img src=https://img.shields.io/badge/Foco-IA%20Local%20%26%20Homelab-8b5cf6?style=flat-square alt=Foco />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=juliosflores&label=VISITAS+AO+PERFIL&color=7aa2f7&style=flat-square" alt="Visitas ao Perfil" />
+    <img src="https://img.shields.io/badge/Status-Construindo%20o%20Futuro-10b981?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Foco-IA%20Local%20%26%20Homelab-8b5cf6?style=flat-square" alt="Foco" />
   </p>
 
   <!-- Redes Sociais com Estilo Moderno -->
-  <p align=center>
-    <a href=https://www.instagram.com/juliosflores/ target=_blank>
-      <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram />
+  <p align="center">
+    <a href="https://www.instagram.com/juliosflores/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href=https://twitter.com/juliosflores target=_blank>
-      <img src=https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white alt=Twitter />
+    <a href="https://twitter.com/juliosflores" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
     </a>
-    <a href=https://www.facebook.com/juliosflores/ target=_blank>
-      <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Facebook />
+    <a href="https://www.facebook.com/juliosflores/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
 
@@ -27,11 +27,11 @@
 
 ---
 
-### ðŸ› ï¸ Tecnologias & Ecossistema
+### 🛠️ Tecnologias & Ecossistema
 
-<div align=center>
+<div align="center">
 
-#### ðŸ–¥ï¸ Home Lab, Servidores & Redes
+#### 🖥️ Home Lab, Servidores & Redes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -41,7 +41,7 @@
 ![Tailscale](https://img.shields.io/badge/Tailscale-24292E?style=for-the-badge&logo=tailscale&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### ðŸ¤– InteligÃªncia Artificial, AutomaÃ§Ã£o & Dev
+#### 🤖 Inteligência Artificial, Automação & Dev
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -52,29 +52,29 @@
 
 ---
 
-### ðŸ“Š EstatÃ­sticas do GitHub
+### 📊 Estatísticas do GitHub
 
-<div align=center>
+<div align="center">
 
-  <!-- EstatÃ­sticas Gerais e Streak lado a lado -->
-  <a href=https://github.com/juliosflores>
-    <img height=165em src=https://github-readme-stats.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117 alt=EstatÃ­sticas do GitHub de Julio Flores />
+  <!-- Estatísticas Gerais e Streak lado a lado -->
+  <a href="https://github.com/juliosflores">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juliosflores&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub de Julio Flores" />
   </a>
-  <a href=https://github.com/juliosflores>
-    <img height=165em src=https://streak-stats.demolab.com/?user=juliosflores&theme=tokyonight&hide_border=true&background=0d1117 alt=SequÃªncia de ContribuiÃ§Ãµes de Julio Flores />
+  <a href="https://github.com/juliosflores">
+    <img height="165em" src="https://streak-stats.demolab.com/?user=juliosflores&theme=tokyonight&hide_border=true&background=0d1117" alt="Sequência de Contribuições de Julio Flores" />
   </a>
 
   <br><br>
 
   <!-- Linguagens mais utilizadas -->
-  <a href=https://github.com/juliosflores>
-    <img height=160em src=https://github-readme-stats.vercel.app/api/top-langs/?username=juliosflores&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117 alt=Linguagens Mais Utilizadas />
+  <a href="https://github.com/juliosflores">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosflores&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens Mais Utilizadas" />
   </a>
 
 </div>
 
 ---
 
-<div align=center>
-  <sub>âš¡ <i>Construindo ambientes resilientes, explorando hardware e operando IA na ponta.</i></sub>
+<div align="center">
+  <sub>⚡ <i>"Construindo ambientes resilientes, explorando hardware e operando IA na ponta."</i></sub>
 </div>
